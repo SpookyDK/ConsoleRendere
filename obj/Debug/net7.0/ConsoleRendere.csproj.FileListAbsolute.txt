@@ -1,0 +1,15 @@
+C:\Users\esben\Documents\GitHub\ConsoleRendere\bin\Debug\net7.0\ConsoleRendere.exe
+C:\Users\esben\Documents\GitHub\ConsoleRendere\bin\Debug\net7.0\ConsoleRendere.deps.json
+C:\Users\esben\Documents\GitHub\ConsoleRendere\bin\Debug\net7.0\ConsoleRendere.runtimeconfig.json
+C:\Users\esben\Documents\GitHub\ConsoleRendere\bin\Debug\net7.0\ConsoleRendere.dll
+C:\Users\esben\Documents\GitHub\ConsoleRendere\bin\Debug\net7.0\ConsoleRendere.pdb
+C:\Users\esben\Documents\GitHub\ConsoleRendere\obj\Debug\net7.0\ConsoleRendere.csproj.AssemblyReference.cache
+C:\Users\esben\Documents\GitHub\ConsoleRendere\obj\Debug\net7.0\ConsoleRendere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esben\Documents\GitHub\ConsoleRendere\obj\Debug\net7.0\ConsoleRendere.AssemblyInfoInputs.cache
+C:\Users\esben\Documents\GitHub\ConsoleRendere\obj\Debug\net7.0\ConsoleRendere.AssemblyInfo.cs
+C:\Users\esben\Documents\GitHub\ConsoleRendere\obj\Debug\net7.0\ConsoleRendere.csproj.CoreCompileInputs.cache
+C:\Users\esben\Documents\GitHub\ConsoleRendere\obj\Debug\net7.0\ConsoleRendere.dll
+C:\Users\esben\Documents\GitHub\ConsoleRendere\obj\Debug\net7.0\refint\ConsoleRendere.dll
+C:\Users\esben\Documents\GitHub\ConsoleRendere\obj\Debug\net7.0\ConsoleRendere.pdb
+C:\Users\esben\Documents\GitHub\ConsoleRendere\obj\Debug\net7.0\ConsoleRendere.genruntimeconfig.cache
+C:\Users\esben\Documents\GitHub\ConsoleRendere\obj\Debug\net7.0\ref\ConsoleRendere.dll
