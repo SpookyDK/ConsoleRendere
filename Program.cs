@@ -15,7 +15,7 @@ namespace ConsoleRendere
             Console.Clear();
             Point punkt1 = new Point(100, 9);
             Point punkt2 = new Point(1, 7);
-            Point punkt3 = new Point(20, 30);
+            Point punkt3 = new Point(1, 30);
             int width = Console.WindowWidth;
             int height = Console.WindowHeight;
             Console.WriteLine(height + " " + width );
@@ -45,6 +45,21 @@ namespace ConsoleRendere
                 for (int i = point1.x; i < point2.x; i++)
                 {
                     Console.SetCursorPosition(i, (int)(i * Angle));
+                    Console.Write("*");
+                }
+
+            }
+             if (point1.x == point2.x)
+            {
+                
+                for (int i = point1.y; i < point2.y; i++)
+                {
+                    Console.SetCursorPosition(point1.x, i );
+                    Console.Write("*");
+                }
+                for (int i = point2.y; i < point1.y; i++)
+                {
+                    Console.SetCursorPosition(point1.x, i );
                     Console.Write("*");
                 }
 
