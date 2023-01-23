@@ -19,7 +19,7 @@ namespace ConsoleRendere
             int width = Console.WindowWidth;
             int height = Console.WindowHeight;
             Console.WriteLine(height + " " + width );
-            Console.WriteLine(punkt1.x + " " + punkt1.y);
+            
             //DrawLine(punkt1, punkt2);
             DrawTriangle(punkt1, punkt2, punkt3);
             
@@ -31,7 +31,7 @@ namespace ConsoleRendere
       {
             float Angle = (float)(point2.y - point1.y) / (float)(point2.x - point1.x);
             int offset = (int)(point2.y - Angle * point2.x);
-            Console.WriteLine(Angle);
+            
             if (point2.x < point1.x)
             {
                 for (int i = point2.x; i < point1.x; i++)
